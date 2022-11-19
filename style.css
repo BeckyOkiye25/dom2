@@ -1,0 +1,30 @@
+.container {
+    margin: 0 40px;
+}
+
+.sni-img {
+    width: 50%;
+}
+
+.box {
+    display: flex;
+}
+
+.gallery{
+    display: flex;
+    margin-top: 5%;
+}
+
+.des {
+    margin: 12% auto;
+}
+
+.des h2 {
+    color: chocolate;
+    font-weight: bolder;
+}
+
+.gallery img {
+    margin: 2px;
+    width: 20%;
+}
